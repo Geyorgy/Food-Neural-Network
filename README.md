@@ -9,9 +9,10 @@
 
 Инструкция по установке:
 1. Скачать zip архив, который содержит exe файл приложения и модель нейросети.
-Ссылка на скачку exe файла приложения: https://drive.google.com/file/d/1aWF0onAB_ivOC5bxbcl8vZcYOotaAvru/view?usp=sharing
+Ссылка на скачку zip архива: https://drive.google.com/file/d/1aWF0onAB_ivOC5bxbcl8vZcYOotaAvru/view?usp=sharing
 2. Распаковать zip архив
 3. Запустить exe файл
+4. Надеяться на лучшее
 
 
 ![image](https://user-images.githubusercontent.com/48309562/121598732-c7002c00-ca4a-11eb-83c4-c3c213b7a76f.png)
