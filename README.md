@@ -12,7 +12,7 @@
 В данной нейронной сети использовался датасет Food101:
 https://www.tensorflow.org/datasets/catalog/food101
 
-Ссылка на коллаб, где мы обучали нейросеть: 
+Ссылка на колаб, где мы обучали нейросеть: 
 https://colab.research.google.com/drive/1ql_Ls6brbt_0JCTNSQeF1HGehTgsmDYc?usp=sharing
 
 Ссылка на обученную модель нейросети: https://drive.google.com/file/d/11cei921V_9f-21T3oyiFrfNusaOjinzb/view?usp=sharing
