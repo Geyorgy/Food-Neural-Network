@@ -1,5 +1,5 @@
 # Food-Neural-Network
-Курсовой проект по машинному обучению Foor Neural Network
+Курсовой проект по машинному обучению Foor Neural Network 
 Выполнен студентами 3-го курса группы ИДБ-18-11: Киселевым Георгием, Хадиуллиным Ниязом.
 
 Ссылка на скачку exe файла приложения: https://drive.google.com/file/d/1aWF0onAB_ivOC5bxbcl8vZcYOotaAvru/view?usp=sharing
