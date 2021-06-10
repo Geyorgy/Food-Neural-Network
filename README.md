@@ -11,6 +11,8 @@
 2. Распаковать zip архив
 3. Запустить exe файл
 
+
+
 ![image](https://user-images.githubusercontent.com/48309562/121598732-c7002c00-ca4a-11eb-83c4-c3c213b7a76f.png)
 
 1. Кнопка Browse позволяет добавить изображения блюд
